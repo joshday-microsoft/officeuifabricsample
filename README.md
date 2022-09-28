@@ -2,7 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+This demo app renders a Chart.JS chart based on SharePoint list data using React SPFX. Additionally it changes based on a user selection. Users rendered are pulled from the SharePoint list.
 
 [picture of the solution in action, if possible]
 
@@ -29,7 +29,7 @@ Short summary on functionality and used technologies.
 
 | Solution    | Author(s)                                               |
 | ----------- | ------------------------------------------------------- |
-| folder name | Josh Day - Microsoft |
+| Chart JS Sample | Josh Day - Microsoft |
 
 ## Version history
 
