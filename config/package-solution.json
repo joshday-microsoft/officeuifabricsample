@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "officeuifabricsample-client-side-solution",
+    "id": "74ad0a3d-a5e1-4935-9778-4888fe337f22",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "officeuifabricsample description"
+      },
+      "longDescription": {
+        "default": "officeuifabricsample description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "officeuifabricsample Feature",
+        "description": "The feature that activates elements of the officeuifabricsample solution.",
+        "id": "da138b00-2087-41b4-b09b-c823f0a06240",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/officeuifabricsample.sppkg"
+  }
+}

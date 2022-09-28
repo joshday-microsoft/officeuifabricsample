@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "officeuifabricsample",
+    "libraryId": "74ad0a3d-a5e1-4935-9778-4888fe337f22",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "officeuifabricsample",
+    "solutionShortDescription": "officeuifabricsample description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
