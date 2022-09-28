@@ -20,15 +20,15 @@ This demo app renders a Chart.JS chart based on SharePoint list data using React
 ## Prerequisites
 
 > Create SharePoint list named "File Audit Log" with the following column/column types:
--User (Person or Group
--FileAccessed (Single line of Text)
--DateAccessed (Date Field)
--Title (This should be there already after you create the list)
+> -User (Person or Group
+> -FileAccessed (Single line of Text)
+> -DateAccessed (Date Field)
+> -Title (This should be there already after you create the list)
 
 ## Solution
 
-| Solution    | Author(s)                                               |
-| ----------- | ------------------------------------------------------- |
+| Solution        | Author(s)            |
+| --------------- | -------------------- |
 | Chart JS Sample | Josh Day - Microsoft |
 
 ## Version history
