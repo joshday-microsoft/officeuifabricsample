@@ -19,13 +19,17 @@ Short summary on functionality and used technologies.
 
 ## Prerequisites
 
-> Any special pre-requisites?
+> Create SharePoint list named "File Audit Log" with the following column/column types:
+-User (Person or Group
+-FileAccessed (Single line of Text)
+-DateAccessed (Date Field)
+-Title (This should be there already after you create the list)
 
 ## Solution
 
 | Solution    | Author(s)                                               |
 | ----------- | ------------------------------------------------------- |
-| folder name | Author details (name, company, twitter alias with link) |
+| folder name | Josh Day - Microsoft |
 
 ## Version history
 
